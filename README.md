@@ -1,5 +1,5 @@
   ## Hi, I'm Anderson Ferreira! 👨‍💻
-- 💼 Fullstack Web Developer at <a href="https://ikone.global/" target="_blank">Ikone Global</a>
+- 💼 Full Stack Web Developer at <a href="https://ikone.global/" target="_blank">Ikone Global</a>
 - 📖 I'm a Information Systems Undergraduate Student from Brazil at <a href="https://www.uninassau.edu.br" target="_blank">UNINASSAU</a>
 - 🌎 Most part of my repositories are in portuguese, but there some in english too;
 - 📋 Here you can find work projects, my college projects and study projects too.
