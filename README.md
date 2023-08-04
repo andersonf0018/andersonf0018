@@ -1,5 +1,5 @@
   ## Hi, I'm Anderson Ferreira! 👨‍💻
-- 💼 Full Stack Web Developer
+- 💼 Senior Front End Engineer 
 - 📖 I'm a Information Systems graduate Student from Brazil at <a href="https://www.uninassau.edu.br" target="_blank">UNINASSAU</a>
 - 🌎 Most part of my repositories are in portuguese, but there some in english too;
 - 📋 Here you can find work projects, my college projects and study projects too.
@@ -7,7 +7,7 @@
 ## Something about what I do around here! 📈
 <div style="display: inline_block">
   <a href="https://github.com/andersonf0018">
-  <img height="180em" style="width: 49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonf0018&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonf0018&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ## My Stacks 🚀
@@ -18,10 +18,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
