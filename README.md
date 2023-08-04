@@ -7,7 +7,6 @@
 ## Something about what I do around here! 📈
 <div style="display: inline_block">
   <a href="https://github.com/andersonf0018">
-  <img height="180em" style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=andersonf0018&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" style="width: 49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonf0018&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
